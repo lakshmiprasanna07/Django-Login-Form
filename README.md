@@ -5,19 +5,19 @@ This repository contains a simple example of a login and sign up form created us
 This project demonstrates a simple implementation of user authentication and login functionality using Django, a high-level Python web framework.  
 
 ### Features
-**1.User Signup:**   
-  - Users can register with their email addresses.   
-  - Email confirmation is required for account activation.   
-**2.User Signin:**   
-  - Secure login with email and password.  
-**3.User Signout:**   
-  - Logout functionality to end user sessions.  
-**4.Admin Authentication:**    
-  - Separate authentication for administrators.   
-  - Admins can manage users through the Django admin interface.   
+- **User Signup:**   
+      1.Users can register with their email addresses.   
+      2.Email confirmation is required for account activation.  
+- **User Signin:**   
+      Secure login with email and password.  
+- **User Signout:**   
+      Logout functionality to end user sessions.  
+- **Admin Authentication:**    
+      1.Separate authentication for administrators.   
+      2.Admins can manage users through the Django admin interface.   
 
 ### Prerequisites   
-Before you begin, ensure you have the following installed:   
+*Before you begin, ensure you have the following installed:*    
 Python    
 Django    
 virtual environment(venv)   
@@ -28,8 +28,7 @@ six
 2.Configure email settings for user registration and password reset functionalities.   
 
 ### Usage  
-1.Run the development server:   
-  - python manage.py runserver  
+1.Run the development server:   ***python manage.py runserver***       
 2.Access the application in your web browser at http://localhost:8000.   
 3.Navigate to the registration and login pages to test the authentication features.   
 
