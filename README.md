@@ -37,7 +37,7 @@ six
 2.Log in using admin credentials.   
 
 ### Contributing  
-If you would like to contribute to the project, please follow the guidelines in CONTRIBUTING.   
+If you would like to contribute to the project, please connect with the user.   
 
 ### License  
 This project is licensed under the MIT License.  
